@@ -1376,3 +1376,26 @@ section {
     padding: 3px 0;
   }
 }
+
+/* whatsapp */
+.float{
+	position:fixed;
+	width:40px;
+	height:40px;
+	bottom:70px;
+	right:10px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+  text-align:center;
+  margin: auto;
+  font-size:27px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+  
+}
+
+.my-float{
+	margin: auto;
+}
+
