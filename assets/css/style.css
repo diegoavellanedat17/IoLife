@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .masthead-vitalbox {
   height: 100vh;
   min-height: 500px;
-  background-image: url('../img/vitalbox1.png');
+  background-image: url('../img/vitalboxwall.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .masthead-vitalbox h2 {
-  color: #aaaaaa;
+  color: #1b1b1b;
   margin-bottom: 50px;
   font-size: 24px;
 }
