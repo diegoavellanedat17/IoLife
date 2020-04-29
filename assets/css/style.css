@@ -563,7 +563,7 @@ section {
   font-weight: 700;
   padding-bottom: 0;
   line-height: 1px;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   color: #c2b7b1;
 }
 
@@ -944,7 +944,7 @@ section {
   bottom: 0;
   width: 50px;
   transition: left ease-in-out 0.3s;
-  background: rgba(78, 64, 57, 0.6);
+  background: rgba(106, 67, 89, 0.6);
   text-align: center;
 }
 
@@ -965,7 +965,7 @@ section {
 }
 
 .team .member:hover .member-info {
-  background: linear-gradient(0deg, rgba(78, 64, 57, 0.95) 0%, rgba(78, 64, 57, 0.95) 15%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(0deg, rgba(106, 67, 89, 0.95) 0%, rgba(106, 67, 89, 0.95) 15%, rgba(255, 255, 255, 0) 100%);
   opacity: 1;
   transition: 0.4s;
 }
@@ -1398,4 +1398,21 @@ section {
 .my-float{
 	margin: auto;
 }
+/* Graciaas */
+.portfolio-images > div {
+  padding: 0 !important;
+}
+.portfolio-images img {
+  width: 100%;
+  height: auto;
+}
 
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 2px;
+  left: 10px;
+  font-size: 10px;
+  color:white;
+  font-style: italic;
+}
