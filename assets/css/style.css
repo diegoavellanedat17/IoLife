@@ -670,6 +670,12 @@ section {
   margin-bottom: 0;
 }
 
+.columnIcon{
+
+  color: #6A4359;
+  font-size: 30px;
+  margin-top: 30px;
+}
 
 /*--------------------------------------------------------------
 # Modal
@@ -1415,4 +1421,9 @@ section {
   font-size: 10px;
   color:white;
   font-style: italic;
+}
+
+.pie-columna{
+  margin-top: 0px;
+  
 }
